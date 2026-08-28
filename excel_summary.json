@@ -1,0 +1,251 @@
+{
+  "Communes_Globale": {
+    "rows": 33,
+    "cols": [
+      "commune_fr",
+      "nombre_biens",
+      "prix_moyen",
+      "prix_median",
+      "prix_m2_moyen",
+      "prix_min",
+      "prix_max"
+    ],
+    "sample": [
+      {
+        "commune_fr": "Marrakech",
+        "nombre_biens": 19255,
+        "prix_moyen": 2840316.159335237,
+        "prix_median": 1750000,
+        "prix_m2_moyen": 15610.41900685737,
+        "prix_min": 80000,
+        "prix_max": 20350000
+      },
+      {
+        "commune_fr": "Inconnu",
+        "nombre_biens": 4288,
+        "prix_moyen": 2808727.936800373,
+        "prix_median": 1600000,
+        "prix_m2_moyen": 10610.67560706065,
+        "prix_min": 85000,
+        "prix_max": 20000000
+      },
+      {
+        "commune_fr": "Tasoultante",
+        "nombre_biens": 1317,
+        "prix_moyen": 4369075.894457099,
+        "prix_median": 3900000,
+        "prix_m2_moyen": 11515.55648113934,
+        "prix_min": 140000,
+        "prix_max": 19000000
+      }
+    ]
+  },
+  "Communes_Par_Type_Prix": {
+    "rows": 33,
+    "cols": [
+      "commune_fr",
+      "Appartement",
+      "Autres",
+      "Ferme",
+      "Immeuble",
+      "Local commercial",
+      "Maison",
+      "Riad",
+      "Terrain",
+      "Villa"
+    ],
+    "sample": [
+      {
+        "commune_fr": "Agafay",
+        "Appartement": 3700000.0,
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 850000.0,
+        "Villa": ""
+      },
+      {
+        "commune_fr": "Aghouatim",
+        "Appartement": 1370000.0,
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 650000.0,
+        "Villa": 6025000.0
+      },
+      {
+        "commune_fr": "Ait Faska",
+        "Appartement": "",
+        "Autres": "",
+        "Ferme": 4500000.0,
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 650000.0,
+        "Villa": 6300000.0
+      }
+    ]
+  },
+  "Communes_Par_Type_PrixM2": {
+    "rows": 33,
+    "cols": [
+      "commune_fr",
+      "Appartement",
+      "Autres",
+      "Ferme",
+      "Immeuble",
+      "Local commercial",
+      "Maison",
+      "Riad",
+      "Terrain",
+      "Villa"
+    ],
+    "sample": [
+      {
+        "commune_fr": "Agafay",
+        "Appartement": 20555.55555555555,
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 340.0,
+        "Villa": ""
+      },
+      {
+        "commune_fr": "Aghouatim",
+        "Appartement": 10960.0,
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 650.0,
+        "Villa": 14008.20335296302
+      },
+      {
+        "commune_fr": "Ait Faska",
+        "Appartement": "",
+        "Autres": "",
+        "Ferme": 212.2641509433962,
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 189.7058823529412,
+        "Villa": 22661.87050359712
+      }
+    ]
+  },
+  "Quartiers_Globale": {
+    "rows": 1367,
+    "cols": [
+      "commune_fr",
+      "localisation_quartier",
+      "nombre_biens",
+      "prix_moyen",
+      "prix_median",
+      "prix_m2_moyen",
+      "prix_min",
+      "prix_max"
+    ],
+    "sample": [
+      {
+        "commune_fr": "Marrakech",
+        "localisation_quartier": "Guéliz",
+        "nombre_biens": 1921,
+        "prix_moyen": 2554275.323789693,
+        "prix_median": 1500000.0,
+        "prix_m2_moyen": 15936.24444689918,
+        "prix_min": 85000,
+        "prix_max": 20350000
+      },
+      {
+        "commune_fr": "Marrakech",
+        "localisation_quartier": "Route de l'Ourika",
+        "nombre_biens": 1678,
+        "prix_moyen": 3116897.484505364,
+        "prix_median": 2100000.0,
+        "prix_m2_moyen": 15527.10618464457,
+        "prix_min": 100000,
+        "prix_max": 20300000
+      },
+      {
+        "commune_fr": "Marrakech",
+        "localisation_quartier": "Essaouira (Ville/Autre)",
+        "nombre_biens": 1201,
+        "prix_moyen": 4402231.557035804,
+        "prix_median": 3400000.0,
+        "prix_m2_moyen": 19034.73246720369,
+        "prix_min": 200000,
+        "prix_max": 20000000
+      }
+    ]
+  },
+  "Quartiers_Par_Type_Prix": {
+    "rows": 1367,
+    "cols": [
+      "commune_fr",
+      "localisation_quartier",
+      "Appartement",
+      "Autres",
+      "Ferme",
+      "Immeuble",
+      "Local commercial",
+      "Maison",
+      "Riad",
+      "Terrain",
+      "Villa"
+    ],
+    "sample": [
+      {
+        "commune_fr": "Agafay",
+        "localisation_quartier": "Route de Fès",
+        "Appartement": "",
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": 850000.0,
+        "Villa": ""
+      },
+      {
+        "commune_fr": "Agafay",
+        "localisation_quartier": "Sidi Mimoun",
+        "Appartement": 3700000.0,
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": "",
+        "Villa": ""
+      },
+      {
+        "commune_fr": "Aghouatim",
+        "localisation_quartier": "Bab Ighli",
+        "Appartement": "",
+        "Autres": "",
+        "Ferme": "",
+        "Immeuble": "",
+        "Local commercial": "",
+        "Maison": "",
+        "Riad": "",
+        "Terrain": "",
+        "Villa": 9250000.0
+      }
+    ]
+  }
+}

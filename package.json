@@ -1,0 +1,17 @@
+{
+  "name": "due-diligence-project",
+  "version": "1.0.0",
+  "description": "Orchid Island — Due Diligence Immobilière & ML Prediction (3 Tiers)",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --kill-others -n \"ML,BACK,FRONT\" -c \"magenta,cyan,yellow\" \"npm run dev:ml-only\" \"npm run dev --prefix Backend\" \"npm run dev --prefix Frontend\"",
+    "start": "npm run dev",
+    "dev:ml-only": "python -m uvicorn MlService.main:app --host 127.0.0.1 --port 8000 --reload"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "lucide-react": "^1.34.0"
+  }
+}

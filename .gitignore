@@ -1,0 +1,55 @@
+# ══════════════════════════════════════════════════════════
+# Python
+# ══════════════════════════════════════════════════════════
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# ══════════════════════════════════════════════════════════
+# Node
+# ══════════════════════════════════════════════════════════
+node_modules/
+npm-debug.log*
+*.log
+
+# ══════════════════════════════════════════════════════════
+# Build / dist
+# ══════════════════════════════════════════════════════════
+dist/
+build/
+.vite/
+
+# ══════════════════════════════════════════════════════════
+# Fichiers temporaires / locaux du projet
+# ══════════════════════════════════════════════════════════
+_keep_*.txt
+_srv.log
+_srv_err.log
+_tmp_*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ══════════════════════════════════════════════════════════
+# Secrets / env locaux (garder .env.example si besoin)
+# ══════════════════════════════════════════════════════════
+Backend/.env
+Frontend/.env
+
+# ══════════════════════════════════════════════════════════
+# Fichiers temporaires de diagnostic / tests locaux
+# ══════════════════════════════════════════════════════════
+_diag*.js
+_diag_*.js
+Backend/_diag*.js
+Backend/_tmp*.js
+Backend/_endpoints_result.txt
+MLService/_*
+export_modeles/
+Backend/data/source/
+Backend/scripts/import_vente.js

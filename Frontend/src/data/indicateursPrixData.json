@@ -1,0 +1,2545 @@
+{
+  "communes": [
+    {
+      "commune_fr": "Marrakech",
+      "nombre_biens": 23543,
+      "prix_moyen": 2834563,
+      "prix_median": 1722680,
+      "prix_m2_moyen": 14700,
+      "prix_min": 80000.0,
+      "prix_max": 20350000.0,
+      "prix_par_type": {
+        "Appartement": 1319025,
+        "Autres": 7689344,
+        "Ferme": 3338672,
+        "Immeuble": 5429186,
+        "Local commercial": 1911414,
+        "Maison": 2646364,
+        "Riad": 3829710,
+        "Terrain": 3004477,
+        "Villa": 5784210
+      },
+      "prix_m2_par_type": {
+        "Appartement": 15427,
+        "Autres": 22866,
+        "Ferme": 644,
+        "Immeuble": 18954,
+        "Local commercial": 21198,
+        "Maison": 17484,
+        "Riad": 24661,
+        "Terrain": 4143,
+        "Villa": 13587
+      },
+      "lat": 31.6295,
+      "lng": -7.9811
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "nombre_biens": 1317,
+      "prix_moyen": 4369075.89,
+      "prix_median": 3900000.0,
+      "prix_m2_moyen": 11515.56,
+      "prix_min": 140000.0,
+      "prix_max": 19000000.0,
+      "prix_par_type": {
+        "Appartement": 1514733.33,
+        "Ferme": 5275000.0,
+        "Immeuble": 2070000.0,
+        "Local commercial": 1726428.57,
+        "Maison": 2503768.82,
+        "Riad": 2140000.0,
+        "Terrain": 3141066.21,
+        "Villa": 5583067.49
+      },
+      "prix_m2_par_type": {
+        "Appartement": 19078.66,
+        "Ferme": 8011.2,
+        "Immeuble": 7789.12,
+        "Local commercial": 22566.54,
+        "Maison": 10909.57,
+        "Riad": 15092.55,
+        "Terrain": 2789.39,
+        "Villa": 13208.84
+      },
+      "lat": 31.545,
+      "lng": -7.975
+    },
+    {
+      "commune_fr": "Ourika",
+      "nombre_biens": 1166,
+      "prix_moyen": 4394348.67,
+      "prix_median": 4025000.0,
+      "prix_m2_moyen": 9922.99,
+      "prix_min": 120000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1358958.33,
+        "Ferme": 4182142.86,
+        "Immeuble": 1700000.0,
+        "Local commercial": 1505714.29,
+        "Maison": 1658461.53,
+        "Riad": 1836428.57,
+        "Terrain": 2835235.54,
+        "Villa": 5683851.99
+      },
+      "prix_m2_par_type": {
+        "Appartement": 15003.94,
+        "Ferme": 595.33,
+        "Immeuble": 15454.55,
+        "Local commercial": 20559.27,
+        "Maison": 9516.44,
+        "Riad": 14308.71,
+        "Terrain": 2397.99,
+        "Villa": 12677.56
+      },
+      "lat": 31.33,
+      "lng": -7.78
+    },
+    {
+      "commune_fr": "Mechouar Kasbah",
+      "nombre_biens": 680,
+      "prix_moyen": 3434595.5,
+      "prix_median": 2500000.0,
+      "prix_m2_moyen": 19513.08,
+      "prix_min": 150000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 2184653.98,
+        "Local commercial": 978571.43,
+        "Maison": 2508866.67,
+        "Riad": 3529802.64,
+        "Terrain": 3479680.43,
+        "Villa": 6187985.45
+      },
+      "prix_m2_par_type": {
+        "Appartement": 24487.81,
+        "Local commercial": 21920.89,
+        "Maison": 15062.07,
+        "Riad": 22251.65,
+        "Terrain": 7672.13,
+        "Villa": 14409.4
+      },
+      "lat": 31.6957,
+      "lng": -7.988099999999999
+    },
+    {
+      "commune_fr": "Tameslouht",
+      "nombre_biens": 297,
+      "prix_moyen": 4720998.1,
+      "prix_median": 4400000.0,
+      "prix_m2_moyen": 9807.78,
+      "prix_min": 270000.0,
+      "prix_max": 18500000.0,
+      "prix_par_type": {
+        "Appartement": 1507142.86,
+        "Ferme": 2250000.0,
+        "Maison": 4401666.67,
+        "Riad": 270000.0,
+        "Terrain": 3188573.79,
+        "Villa": 5794101.86
+      },
+      "prix_m2_par_type": {
+        "Appartement": 16382.33,
+        "Ferme": 4605.56,
+        "Maison": 17478.04,
+        "Riad": 2523.36,
+        "Terrain": 1874.65,
+        "Villa": 14090.95
+      },
+      "lat": 31.5,
+      "lng": -8.1
+    },
+    {
+      "commune_fr": "Saâda",
+      "nombre_biens": 271,
+      "prix_moyen": 3213411.13,
+      "prix_median": 2090000.0,
+      "prix_m2_moyen": 11325.53,
+      "prix_min": 220000.0,
+      "prix_max": 18000000.0,
+      "prix_par_type": {
+        "Appartement": 1101810.6,
+        "Ferme": 3170833.33,
+        "Local commercial": 2438333.33,
+        "Maison": 1350833.33,
+        "Riad": 1800000.0,
+        "Terrain": 2471355.11,
+        "Villa": 4811759.84
+      },
+      "prix_m2_par_type": {
+        "Appartement": 13035.6,
+        "Ferme": 161.88,
+        "Local commercial": 24231.21,
+        "Maison": 10112.27,
+        "Riad": 11250.0,
+        "Terrain": 2497.29,
+        "Villa": 13446.11
+      },
+      "lat": 31.601300000000002,
+      "lng": -8.061499999999999
+    },
+    {
+      "commune_fr": "Ouahat Sidi Brahim",
+      "nombre_biens": 251,
+      "prix_moyen": 2725400.0,
+      "prix_median": 1650000.0,
+      "prix_m2_moyen": 16439.0,
+      "prix_min": 120000.0,
+      "prix_max": 12800000.0,
+      "prix_par_type": {
+        "Appartement": 1359225.27,
+        "Ferme": 1075000.0,
+        "Local commercial": 2218750.0,
+        "Maison": 3809999.97,
+        "Riad": 4674147.06,
+        "Terrain": 2040422.64,
+        "Villa": 4604926.47
+      },
+      "prix_m2_par_type": {
+        "Appartement": 16325.56,
+        "Ferme": 455.0,
+        "Local commercial": 35397.11,
+        "Maison": 27882.08,
+        "Riad": 28965.19,
+        "Terrain": 3686.82,
+        "Villa": 11698.18
+      },
+      "lat": 31.5365,
+      "lng": -8.032499999999999
+    },
+    {
+      "commune_fr": "Zaouia Annahlia",
+      "nombre_biens": 247,
+      "prix_moyen": 4617341.3,
+      "prix_median": 3000000.0,
+      "prix_m2_moyen": 20240.51,
+      "prix_min": 1000000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 2385084.68,
+        "Maison": 5520000.0,
+        "Terrain": 4667407.41,
+        "Villa": 7594646.15
+      },
+      "prix_m2_par_type": {
+        "Appartement": 26502.3,
+        "Maison": 15752.88,
+        "Terrain": 5383.61,
+        "Villa": 16362.61
+      },
+      "lat": 31.581500000000002,
+      "lng": -7.9868999999999994
+    },
+    {
+      "commune_fr": "Sidi Abdallah Ghiat",
+      "nombre_biens": 188,
+      "prix_moyen": 3243967.39,
+      "prix_median": 2225000.0,
+      "prix_m2_moyen": 5536.49,
+      "prix_min": 170000.0,
+      "prix_max": 17600000.0,
+      "prix_par_type": {
+        "Appartement": 243333.33,
+        "Ferme": 3722857.14,
+        "Maison": 2073636.36,
+        "Riad": 4550000.0,
+        "Terrain": 1482546.07,
+        "Villa": 5413135.14
+      },
+      "prix_m2_par_type": {
+        "Appartement": 3896.15,
+        "Ferme": 1545.53,
+        "Maison": 10150.56,
+        "Riad": 14137.36,
+        "Terrain": 787.46,
+        "Villa": 10830.49
+      },
+      "lat": 31.48,
+      "lng": -7.87
+    },
+    {
+      "commune_fr": "Harbil",
+      "nombre_biens": 140,
+      "prix_moyen": 1810172.14,
+      "prix_median": 1300000.0,
+      "prix_m2_moyen": 11930.82,
+      "prix_min": 190000.0,
+      "prix_max": 11000000.0,
+      "prix_par_type": {
+        "Appartement": 1197200.0,
+        "Ferme": 3658000.0,
+        "Local commercial": 1155880.95,
+        "Maison": 1763333.33,
+        "Riad": 340000.0,
+        "Terrain": 1192500.0,
+        "Villa": 3822777.78
+      },
+      "prix_m2_par_type": {
+        "Appartement": 13916.35,
+        "Ferme": 3235.41,
+        "Local commercial": 14977.05,
+        "Maison": 13785.92,
+        "Riad": 4047.62,
+        "Terrain": 2283.26,
+        "Villa": 10606.08
+      },
+      "lat": 31.6155,
+      "lng": -7.9525
+    },
+    {
+      "commune_fr": "Oulad Hassoun",
+      "nombre_biens": 138,
+      "prix_moyen": 4040481.88,
+      "prix_median": 3550000.0,
+      "prix_m2_moyen": 8976.4,
+      "prix_min": 270000.0,
+      "prix_max": 17600000.0,
+      "prix_par_type": {
+        "Appartement": 1496875.0,
+        "Ferme": 3277692.31,
+        "Maison": 2072857.14,
+        "Terrain": 2703142.86,
+        "Villa": 5251753.33
+      },
+      "prix_m2_par_type": {
+        "Appartement": 12857.59,
+        "Ferme": 427.8,
+        "Maison": 7337.05,
+        "Terrain": 1306.24,
+        "Villa": 13776.58
+      },
+      "lat": 31.6111,
+      "lng": -8.0741
+    },
+    {
+      "commune_fr": "Al Ouidane",
+      "nombre_biens": 118,
+      "prix_moyen": 4925302.97,
+      "prix_median": 3650000.0,
+      "prix_m2_moyen": 10857.53,
+      "prix_min": 500000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1925555.56,
+        "Ferme": 5715000.0,
+        "Local commercial": 540000.0,
+        "Maison": 1660000.0,
+        "Riad": 3175000.0,
+        "Terrain": 3168770.83,
+        "Villa": 6655312.5
+      },
+      "prix_m2_par_type": {
+        "Appartement": 18161.15,
+        "Ferme": 7846.5,
+        "Local commercial": 9264.45,
+        "Maison": 10117.83,
+        "Riad": 10711.51,
+        "Terrain": 1202.59,
+        "Villa": 15444.47
+      },
+      "lat": 31.67,
+      "lng": -7.86
+    },
+    {
+      "commune_fr": "Sti Fadma",
+      "nombre_biens": 36,
+      "prix_moyen": 3103611.06,
+      "prix_median": 2250000.0,
+      "prix_m2_moyen": 8151.04,
+      "prix_min": 160000.0,
+      "prix_max": 8000000.0,
+      "prix_par_type": {
+        "Maison": 768333.33,
+        "Riad": 4300000.0,
+        "Terrain": 1388999.8,
+        "Villa": 4701666.67
+      },
+      "prix_m2_par_type": {
+        "Maison": 7308.38,
+        "Riad": 15250.0,
+        "Terrain": 886.98,
+        "Villa": 11678.74
+      },
+      "lat": 31.5977,
+      "lng": -7.8858999999999995
+    },
+    {
+      "commune_fr": "Chichaoua",
+      "nombre_biens": 31,
+      "prix_moyen": 1071903.23,
+      "prix_median": 650000.0,
+      "prix_m2_moyen": 2748.34,
+      "prix_min": 110000.0,
+      "prix_max": 5000000.0,
+      "prix_par_type": {
+        "Appartement": 390000.0,
+        "Ferme": 1749875.0,
+        "Maison": 1166000.0,
+        "Terrain": 816428.57,
+        "Villa": 800000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 5450.0,
+        "Ferme": 115.3,
+        "Maison": 9044.91,
+        "Terrain": 1224.71,
+        "Villa": 5555.56
+      },
+      "lat": 31.6615,
+      "lng": -7.9738999999999995
+    },
+    {
+      "commune_fr": "Souihla",
+      "nombre_biens": 30,
+      "prix_moyen": 1651000.0,
+      "prix_median": 1275000.0,
+      "prix_m2_moyen": 6517.27,
+      "prix_min": 250000.0,
+      "prix_max": 5500000.0,
+      "prix_par_type": {
+        "Appartement": 806250.0,
+        "Ferme": 3400000.0,
+        "Maison": 950000.0,
+        "Terrain": 974444.44,
+        "Villa": 2573333.33
+      },
+      "prix_m2_par_type": {
+        "Appartement": 9177.45,
+        "Ferme": 116.71,
+        "Maison": 5828.22,
+        "Terrain": 2087.63,
+        "Villa": 10792.4
+      },
+      "lat": 31.6599,
+      "lng": -7.9135
+    },
+    {
+      "commune_fr": "Asni",
+      "nombre_biens": 23,
+      "prix_moyen": 1555851.3,
+      "prix_median": 880000.0,
+      "prix_m2_moyen": 15350.27,
+      "prix_min": 240000.0,
+      "prix_max": 7860000.0,
+      "prix_par_type": {
+        "Appartement": 782305.33,
+        "Local commercial": 1300000.0,
+        "Maison": 240000.0,
+        "Riad": 2483333.33,
+        "Terrain": 7860000.0,
+        "Villa": 3600000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 11390.99,
+        "Local commercial": 59090.91,
+        "Maison": 3428.57,
+        "Riad": 25364.99,
+        "Terrain": 4000.0,
+        "Villa": 19788.46
+      },
+      "lat": 31.6897,
+      "lng": -8.080499999999999
+    },
+    {
+      "commune_fr": "Loudaya",
+      "nombre_biens": 21,
+      "prix_moyen": 1218809.52,
+      "prix_median": 700000.0,
+      "prix_m2_moyen": 9114.43,
+      "prix_min": 200000.0,
+      "prix_max": 7200000.0,
+      "prix_par_type": {
+        "Appartement": 236250.0,
+        "Maison": 1500000.0,
+        "Riad": 7200000.0,
+        "Terrain": 620000.0,
+        "Villa": 2250000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 4782.99,
+        "Maison": 12500.0,
+        "Riad": 61538.46,
+        "Terrain": 3896.87,
+        "Villa": 11421.32
+      },
+      "lat": 31.59,
+      "lng": -8.28
+    },
+    {
+      "commune_fr": "Lalla Takarkoust",
+      "nombre_biens": 5,
+      "prix_moyen": 5120000.0,
+      "prix_median": 4100000.0,
+      "prix_m2_moyen": 15579.05,
+      "prix_min": 3850000.0,
+      "prix_max": 9700000.0,
+      "prix_par_type": {
+        "Maison": 9700000.0,
+        "Villa": 3975000.0
+      },
+      "prix_m2_par_type": {
+        "Maison": 23095.24,
+        "Villa": 13700.0
+      },
+      "lat": 31.7131,
+      "lng": -8.0461
+    },
+    {
+      "commune_fr": "Ijoukak",
+      "nombre_biens": 4,
+      "prix_moyen": 4037500.0,
+      "prix_median": 4475000.0,
+      "prix_m2_moyen": 7996.2,
+      "prix_min": 2000000.0,
+      "prix_max": 5200000.0,
+      "prix_par_type": {
+        "Terrain": 2000000.0,
+        "Villa": 4716666.67
+      },
+      "prix_m2_par_type": {
+        "Terrain": 1474.93,
+        "Villa": 10169.96
+      },
+      "lat": 31.7007,
+      "lng": -7.930899999999999
+    },
+    {
+      "commune_fr": "Tahannaout",
+      "nombre_biens": 4,
+      "prix_moyen": 3395000.0,
+      "prix_median": 3045000.0,
+      "prix_m2_moyen": 12144.45,
+      "prix_min": 1890000.0,
+      "prix_max": 5600000.0,
+      "prix_par_type": {
+        "Maison": 2290000.0,
+        "Terrain": 1890000.0,
+        "Villa": 4700000.0
+      },
+      "prix_m2_par_type": {
+        "Maison": 22900.0,
+        "Terrain": 5478.26,
+        "Villa": 10099.77
+      },
+      "lat": 31.35,
+      "lng": -7.95
+    },
+    {
+      "commune_fr": "Aghouatim",
+      "nombre_biens": 4,
+      "prix_moyen": 3517500.0,
+      "prix_median": 2085000.0,
+      "prix_m2_moyen": 9906.6,
+      "prix_min": 650000.0,
+      "prix_max": 9250000.0,
+      "prix_par_type": {
+        "Appartement": 1370000.0,
+        "Terrain": 650000.0,
+        "Villa": 6025000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 10960.0,
+        "Terrain": 650.0,
+        "Villa": 14008.2
+      },
+      "lat": 31.32,
+      "lng": -7.78
+    },
+    {
+      "commune_fr": "Ait Faska",
+      "nombre_biens": 4,
+      "prix_moyen": 3025000.0,
+      "prix_median": 2800000.0,
+      "prix_m2_moyen": 5813.39,
+      "prix_min": 200000.0,
+      "prix_max": 6300000.0,
+      "prix_par_type": {
+        "Ferme": 4500000.0,
+        "Terrain": 650000.0,
+        "Villa": 6300000.0
+      },
+      "prix_m2_par_type": {
+        "Ferme": 212.26,
+        "Terrain": 189.71,
+        "Villa": 22661.87
+      },
+      "lat": 31.56,
+      "lng": -7.67
+    },
+    {
+      "commune_fr": "Ouled Dlim",
+      "nombre_biens": 3,
+      "prix_moyen": 3000000.0,
+      "prix_median": 1800000.0,
+      "prix_m2_moyen": 11283.03,
+      "prix_min": 1700000.0,
+      "prix_max": 5500000.0,
+      "prix_par_type": {
+        "Ferme": 1700000.0,
+        "Riad": 5500000.0,
+        "Terrain": 1800000.0
+      },
+      "prix_m2_par_type": {
+        "Ferme": 127.82,
+        "Riad": 30726.26,
+        "Terrain": 2995.01
+      },
+      "lat": 31.6887,
+      "lng": -7.8957
+    },
+    {
+      "commune_fr": "Ghmate",
+      "nombre_biens": 3,
+      "prix_moyen": 5100000.0,
+      "prix_median": 3500000.0,
+      "prix_m2_moyen": 13394.44,
+      "prix_min": 2800000.0,
+      "prix_max": 9000000.0,
+      "prix_par_type": {
+        "Ferme": 2800000.0,
+        "Villa": 6250000.0
+      },
+      "prix_m2_par_type": {
+        "Ferme": 5600.0,
+        "Villa": 17291.67
+      },
+      "lat": 31.4333,
+      "lng": -7.8
+    },
+    {
+      "commune_fr": "Imindounit",
+      "nombre_biens": 3,
+      "prix_moyen": 1123333.33,
+      "prix_median": 1245000.0,
+      "prix_m2_moyen": 15913.58,
+      "prix_min": 850000.0,
+      "prix_max": 1275000.0,
+      "prix_par_type": {
+        "Local commercial": 1123333.33
+      },
+      "prix_m2_par_type": {
+        "Local commercial": 15913.58
+      },
+      "lat": 31.6829,
+      "lng": -7.9479
+    },
+    {
+      "commune_fr": "Agafay",
+      "nombre_biens": 2,
+      "prix_moyen": 2275000.0,
+      "prix_median": 2275000.0,
+      "prix_m2_moyen": 10447.78,
+      "prix_min": 850000.0,
+      "prix_max": 3700000.0,
+      "prix_par_type": {
+        "Appartement": 3700000.0,
+        "Terrain": 850000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 20555.56,
+        "Terrain": 340.0
+      },
+      "lat": 31.48,
+      "lng": -8.15
+    },
+    {
+      "commune_fr": "Ait Sidi Daoud",
+      "nombre_biens": 2,
+      "prix_moyen": 4200000.0,
+      "prix_median": 4200000.0,
+      "prix_m2_moyen": 622.22,
+      "prix_min": 400000.0,
+      "prix_max": 8000000.0,
+      "prix_par_type": {
+        "Terrain": 4200000.0
+      },
+      "prix_m2_par_type": {
+        "Terrain": 622.22
+      },
+      "lat": 31.6643,
+      "lng": -7.9697
+    },
+    {
+      "commune_fr": "Sidi Ghanem",
+      "nombre_biens": 2,
+      "prix_moyen": 540000.0,
+      "prix_median": 540000.0,
+      "prix_m2_moyen": 7772.73,
+      "prix_min": 500000.0,
+      "prix_max": 580000.0,
+      "prix_par_type": {
+        "Appartement": 580000.0,
+        "Local commercial": 500000.0
+      },
+      "prix_m2_par_type": {
+        "Appartement": 10545.45,
+        "Local commercial": 5000.0
+      },
+      "lat": 31.6971,
+      "lng": -7.934699999999999
+    },
+    {
+      "commune_fr": "Tamazouzte",
+      "nombre_biens": 2,
+      "prix_moyen": 1750000.0,
+      "prix_median": 1750000.0,
+      "prix_m2_moyen": 164.29,
+      "prix_min": 1500000.0,
+      "prix_max": 2000000.0,
+      "prix_par_type": {
+        "Terrain": 1750000.0
+      },
+      "prix_m2_par_type": {
+        "Terrain": 164.29
+      },
+      "lat": 31.5921,
+      "lng": -7.9456999999999995
+    },
+    {
+      "commune_fr": "Amizmiz",
+      "nombre_biens": 1,
+      "prix_moyen": 3000000.0,
+      "prix_median": 3000000.0,
+      "prix_m2_moyen": 6666.67,
+      "prix_min": 3000000.0,
+      "prix_max": 3000000.0,
+      "prix_par_type": {
+        "Villa": 3000000.0
+      },
+      "prix_m2_par_type": {
+        "Villa": 6666.67
+      },
+      "lat": 31.2167,
+      "lng": -8.25
+    },
+    {
+      "commune_fr": "Gmassa",
+      "nombre_biens": 1,
+      "prix_moyen": 5500000.0,
+      "prix_median": 5500000.0,
+      "prix_m2_moyen": 7857.14,
+      "prix_min": 5500000.0,
+      "prix_max": 5500000.0,
+      "prix_par_type": {
+        "Villa": 5500000.0
+      },
+      "prix_m2_par_type": {
+        "Villa": 7857.14
+      },
+      "lat": 31.6667,
+      "lng": -7.934699999999999
+    },
+    {
+      "commune_fr": "Tamaguert",
+      "nombre_biens": 1,
+      "prix_moyen": 9000000.0,
+      "prix_median": 9000000.0,
+      "prix_m2_moyen": 1116.49,
+      "prix_min": 9000000.0,
+      "prix_max": 9000000.0,
+      "prix_par_type": {
+        "Terrain": 9000000.0
+      },
+      "prix_m2_par_type": {
+        "Terrain": 1116.49
+      },
+      "lat": 31.45,
+      "lng": -7.65
+    }
+  ],
+  "quartiers": [
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Guéliz",
+      "nombre_biens": 2242,
+      "prix_moyen": 2565915,
+      "prix_median": 1485682,
+      "prix_m2_moyen": 15243,
+      "prix_min": 85000.0,
+      "prix_max": 20350000.0,
+      "prix_par_type": {
+        "Appartement": 1262450,
+        "Ferme": 3075593,
+        "Immeuble": 3494129,
+        "Local commercial": 1494210,
+        "Maison": 2662472,
+        "Riad": 3810576,
+        "Terrain": 3281100,
+        "Villa": 6504199
+      },
+      "lat": 31.634,
+      "lng": -8.01
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de l'Ourika",
+      "nombre_biens": 2016,
+      "prix_moyen": 3209430,
+      "prix_median": 2213170,
+      "prix_m2_moyen": 15210,
+      "prix_min": 100000.0,
+      "prix_max": 20300000.0,
+      "prix_par_type": {
+        "Appartement": 1406665,
+        "Autres": 2330556,
+        "Ferme": 3757909,
+        "Immeuble": 2746726,
+        "Local commercial": 2137069,
+        "Maison": 2842030,
+        "Riad": 3840803,
+        "Terrain": 3074840,
+        "Villa": 5593779
+      },
+      "lat": 31.55,
+      "lng": -7.95
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Essaouira (Ville/Autre)",
+      "nombre_biens": 1739,
+      "prix_moyen": 3895739,
+      "prix_median": 2903456,
+      "prix_m2_moyen": 15921,
+      "prix_min": 100000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1695697,
+        "Ferme": 3535959,
+        "Immeuble": 5271248,
+        "Local commercial": 2440909,
+        "Maison": 4243261,
+        "Riad": 5146284,
+        "Terrain": 3009407,
+        "Villa": 6289998
+      },
+      "lat": 31.5125,
+      "lng": -9.77
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route d'Amizmiz",
+      "nombre_biens": 1033,
+      "prix_moyen": 3140959,
+      "prix_median": 2047773,
+      "prix_m2_moyen": 15127,
+      "prix_min": 130000.0,
+      "prix_max": 19600000.0,
+      "prix_par_type": {
+        "Appartement": 1445211,
+        "Ferme": 2210300,
+        "Local commercial": 2037342,
+        "Maison": 2949730,
+        "Riad": 3552766,
+        "Terrain": 3354210,
+        "Villa": 5684514,
+        "Autres": 955470
+      },
+      "lat": 31.62161,
+      "lng": -7.9841
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Targa",
+      "nombre_biens": 1007,
+      "prix_moyen": 2817659,
+      "prix_median": 1818008,
+      "prix_m2_moyen": 15036,
+      "prix_min": 110000.0,
+      "prix_max": 18200000.0,
+      "prix_par_type": {
+        "Appartement": 1360528,
+        "Ferme": 3920985,
+        "Immeuble": 4849255,
+        "Local commercial": 1984868,
+        "Maison": 2861109,
+        "Riad": 4123104,
+        "Terrain": 2838989,
+        "Villa": 5274639
+      },
+      "lat": 31.64,
+      "lng": -8.05
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Fès",
+      "nombre_biens": 921,
+      "prix_moyen": 3051711,
+      "prix_median": 1961998,
+      "prix_m2_moyen": 14750,
+      "prix_min": 100000.0,
+      "prix_max": 19800000.0,
+      "prix_par_type": {
+        "Appartement": 1391206,
+        "Autres": 3482953,
+        "Ferme": 3132379,
+        "Immeuble": 7379204,
+        "Local commercial": 2036224,
+        "Maison": 2679658,
+        "Riad": 3818520,
+        "Terrain": 2951504,
+        "Villa": 5552346
+      },
+      "lat": 31.64,
+      "lng": -7.92
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Casablanca",
+      "nombre_biens": 811,
+      "prix_moyen": 2296193,
+      "prix_median": 1380395,
+      "prix_m2_moyen": 13699,
+      "prix_min": 120000.0,
+      "prix_max": 17000000.0,
+      "prix_par_type": {
+        "Appartement": 1160104,
+        "Ferme": 3738594,
+        "Immeuble": 666986,
+        "Local commercial": 1711399,
+        "Maison": 2546348,
+        "Riad": 3902356,
+        "Terrain": 2567427,
+        "Villa": 5131952
+      },
+      "lat": 31.66,
+      "lng": -8.02
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Palmeraie",
+      "nombre_biens": 765,
+      "prix_moyen": 3060919,
+      "prix_median": 1929804,
+      "prix_m2_moyen": 15728,
+      "prix_min": 125000.0,
+      "prix_max": 20300000.0,
+      "prix_par_type": {
+        "Appartement": 1451592,
+        "Autres": 17098039,
+        "Ferme": 5004000,
+        "Local commercial": 2021521,
+        "Maison": 2371202,
+        "Riad": 3858757,
+        "Terrain": 2922753,
+        "Villa": 5827807
+      },
+      "lat": 31.67,
+      "lng": -7.96
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Tahanaout",
+      "nombre_biens": 753,
+      "prix_moyen": 3373627,
+      "prix_median": 2303211,
+      "prix_m2_moyen": 15425,
+      "prix_min": 135000.0,
+      "prix_max": 20300000.0,
+      "prix_par_type": {
+        "Appartement": 1472137,
+        "Autres": 9188579,
+        "Ferme": 3921994,
+        "Local commercial": 2937415,
+        "Maison": 3002689,
+        "Riad": 4448090,
+        "Terrain": 3749302,
+        "Villa": 5595277
+      },
+      "lat": 31.62074,
+      "lng": -7.966189999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "M'hamid",
+      "nombre_biens": 715,
+      "prix_moyen": 1731311,
+      "prix_median": 1165720,
+      "prix_m2_moyen": 13366,
+      "prix_min": 100000.0,
+      "prix_max": 13500000.0,
+      "prix_par_type": {
+        "Appartement": 1090214,
+        "Ferme": 4354755,
+        "Local commercial": 1702257,
+        "Maison": 1918235,
+        "Riad": 3226868,
+        "Terrain": 2277726,
+        "Villa": 5144041
+      },
+      "lat": 31.60021,
+      "lng": -8.04919
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Agdal",
+      "nombre_biens": 569,
+      "prix_moyen": 3181921,
+      "prix_median": 2025594,
+      "prix_m2_moyen": 15342,
+      "prix_min": 100000.0,
+      "prix_max": 20300000.0,
+      "prix_par_type": {
+        "Appartement": 1414355,
+        "Ferme": 3325132,
+        "Immeuble": 3150791,
+        "Local commercial": 2485693,
+        "Maison": 2656281,
+        "Riad": 3895774,
+        "Terrain": 2778971,
+        "Villa": 6484528
+      },
+      "lat": 31.585,
+      "lng": -7.995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Ouarzazate",
+      "nombre_biens": 535,
+      "prix_moyen": 3094217,
+      "prix_median": 2009234,
+      "prix_m2_moyen": 15143,
+      "prix_min": 150000.0,
+      "prix_max": 19000000.0,
+      "prix_par_type": {
+        "Appartement": 1342412,
+        "Autres": 2898131,
+        "Ferme": 3015171,
+        "Immeuble": 2732523,
+        "Local commercial": 2101172,
+        "Maison": 2528856,
+        "Riad": 3592424,
+        "Terrain": 3359547,
+        "Villa": 5951555
+      },
+      "lat": 31.6289,
+      "lng": -7.99391
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Autre Secteur",
+      "nombre_biens": 469,
+      "prix_moyen": 1985463,
+      "prix_median": 1311087,
+      "prix_m2_moyen": 13401,
+      "prix_min": 150000.0,
+      "prix_max": 12000000.0,
+      "prix_par_type": {
+        "Appartement": 1125475,
+        "Immeuble": 3799574,
+        "Local commercial": 1250010,
+        "Maison": 1873749,
+        "Riad": 4142814,
+        "Terrain": 2546923,
+        "Villa": 4069878,
+        "Ferme": 357996
+      },
+      "lat": 31.62329,
+      "lng": -7.984369999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Hivernage",
+      "nombre_biens": 427,
+      "prix_moyen": 3020693,
+      "prix_median": 1752658,
+      "prix_m2_moyen": 15372,
+      "prix_min": 123200.0,
+      "prix_max": 18500000.0,
+      "prix_par_type": {
+        "Appartement": 1297441,
+        "Ferme": 4046838,
+        "Local commercial": 2201522,
+        "Maison": 2679486,
+        "Riad": 4299198,
+        "Terrain": 3491832,
+        "Villa": 6905554
+      },
+      "lat": 31.62,
+      "lng": -8.012
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Hay Izdihar",
+      "nombre_biens": 417,
+      "prix_moyen": 1706588,
+      "prix_median": 1200000,
+      "prix_m2_moyen": 13759,
+      "prix_min": 150000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1131105,
+        "Local commercial": 1648252,
+        "Maison": 1934564,
+        "Riad": 3405712,
+        "Terrain": 2199385,
+        "Villa": 4700960,
+        "Ferme": 190288
+      },
+      "lat": 31.63646,
+      "lng": -7.978219999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Amelkis",
+      "nombre_biens": 414,
+      "prix_moyen": 3149556,
+      "prix_median": 2233333,
+      "prix_m2_moyen": 16016,
+      "prix_min": 150000.0,
+      "prix_max": 19300000.0,
+      "prix_par_type": {
+        "Appartement": 1547404,
+        "Autres": 8000000,
+        "Ferme": 3555556,
+        "Immeuble": 2755556,
+        "Local commercial": 3158670,
+        "Maison": 2997722,
+        "Riad": 3921958,
+        "Terrain": 3160531,
+        "Villa": 5641246
+      },
+      "lat": 31.63823,
+      "lng": -7.99013
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Safi (Marrakech)",
+      "nombre_biens": 357,
+      "prix_moyen": 2401748,
+      "prix_median": 1485833,
+      "prix_m2_moyen": 13497,
+      "prix_min": 90000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1147839,
+        "Ferme": 1688515,
+        "Immeuble": 2456022,
+        "Local commercial": 1090643,
+        "Maison": 2662972,
+        "Riad": 2948711,
+        "Terrain": 2610848,
+        "Villa": 5488976
+      },
+      "lat": 31.61768,
+      "lng": -7.9947799999999996
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Les Portes de Marrakech",
+      "nombre_biens": 355,
+      "prix_moyen": 3118595,
+      "prix_median": 1973887,
+      "prix_m2_moyen": 15407,
+      "prix_min": 85000.0,
+      "prix_max": 20300000.0,
+      "prix_par_type": {
+        "Appartement": 1313932,
+        "Local commercial": 2850252,
+        "Maison": 2925848,
+        "Riad": 3416190,
+        "Terrain": 3056148,
+        "Villa": 6714400
+      },
+      "lat": 31.62746,
+      "lng": -7.98881
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Semlalia",
+      "nombre_biens": 338,
+      "prix_moyen": 2351547,
+      "prix_median": 1498107,
+      "prix_m2_moyen": 14261,
+      "prix_min": 95000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1193478,
+        "Ferme": 4358777,
+        "Immeuble": 5519231,
+        "Local commercial": 2000477,
+        "Maison": 2421421,
+        "Riad": 3266743,
+        "Terrain": 2984327,
+        "Villa": 5516568
+      },
+      "lat": 31.645,
+      "lng": -8.008
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Safi (Ville/Autre)",
+      "nombre_biens": 321,
+      "prix_moyen": 2375249,
+      "prix_median": 1564486,
+      "prix_m2_moyen": 4391,
+      "prix_min": 100000.0,
+      "prix_max": 17600000.0,
+      "prix_par_type": {
+        "Ferme": 1566373,
+        "Local commercial": 655321,
+        "Maison": 1022253,
+        "Riad": 1927414,
+        "Terrain": 2501927,
+        "Villa": 3269218,
+        "Appartement": 293905
+      },
+      "lat": 31.62584,
+      "lng": -7.973599999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Mabrouka",
+      "nombre_biens": 317,
+      "prix_moyen": 1638187,
+      "prix_median": 1029748,
+      "prix_m2_moyen": 13184,
+      "prix_min": 120000.0,
+      "prix_max": 13000000.0,
+      "prix_par_type": {
+        "Appartement": 1107719,
+        "Local commercial": 1723999,
+        "Maison": 1593992,
+        "Riad": 2626656,
+        "Terrain": 4060413,
+        "Villa": 5943707
+      },
+      "lat": 31.648,
+      "lng": -8.04
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Casablanca",
+      "nombre_biens": 313,
+      "prix_moyen": 4221672,
+      "prix_median": 3345647,
+      "prix_m2_moyen": 13964,
+      "prix_min": 330000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1451571,
+        "Immeuble": 8330990,
+        "Local commercial": 1389125,
+        "Maison": 1926803,
+        "Riad": 2856230,
+        "Terrain": 3473312,
+        "Villa": 6067052
+      },
+      "lat": 31.6304,
+      "lng": -7.9913
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Médina",
+      "nombre_biens": 250,
+      "prix_moyen": 2292622,
+      "prix_median": 1470600,
+      "prix_m2_moyen": 14548,
+      "prix_min": 220000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1233049,
+        "Ferme": 2756800,
+        "Local commercial": 1341897,
+        "Maison": 2079455,
+        "Riad": 3301222,
+        "Terrain": 3058360,
+        "Villa": 5293801
+      },
+      "lat": 31.625,
+      "lng": -7.989
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Allal El Fassi",
+      "nombre_biens": 232,
+      "prix_moyen": 1469121,
+      "prix_median": 1031897,
+      "prix_m2_moyen": 13318,
+      "prix_min": 130000.0,
+      "prix_max": 12400000.0,
+      "prix_par_type": {
+        "Appartement": 1049029,
+        "Local commercial": 1156796,
+        "Maison": 3090625,
+        "Riad": 4485914,
+        "Terrain": 1839672,
+        "Villa": 3713064,
+        "Ferme": 637931
+      },
+      "lat": 31.6298,
+      "lng": -7.97312
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Hay Charaf",
+      "nombre_biens": 197,
+      "prix_moyen": 1460808,
+      "prix_median": 964264,
+      "prix_m2_moyen": 13722,
+      "prix_min": 100000.0,
+      "prix_max": 12000000.0,
+      "prix_par_type": {
+        "Appartement": 982760,
+        "Local commercial": 1459955,
+        "Maison": 1427288,
+        "Riad": 3017957,
+        "Terrain": 1444212,
+        "Villa": 3958054
+      },
+      "lat": 31.63919,
+      "lng": -7.99031
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Azzouzia",
+      "nombre_biens": 193,
+      "prix_moyen": 2060964,
+      "prix_median": 1299440,
+      "prix_m2_moyen": 13134,
+      "prix_min": 100000.0,
+      "prix_max": 17000000.0,
+      "prix_par_type": {
+        "Appartement": 1074247,
+        "Immeuble": 13829016,
+        "Local commercial": 1911174,
+        "Maison": 2043052,
+        "Riad": 3346881,
+        "Terrain": 2419352,
+        "Villa": 4491851
+      },
+      "lat": 31.62029,
+      "lng": -7.9757299999999995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Avenue Mohammed VI",
+      "nombre_biens": 182,
+      "prix_moyen": 2454366,
+      "prix_median": 1412577,
+      "prix_m2_moyen": 14091,
+      "prix_min": 140000.0,
+      "prix_max": 18500000.0,
+      "prix_par_type": {
+        "Appartement": 1208403,
+        "Local commercial": 1173192,
+        "Maison": 2242832,
+        "Riad": 4244112,
+        "Terrain": 2521289,
+        "Villa": 6230128
+      },
+      "lat": 31.63217,
+      "lng": -7.98809
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route d'Agadir - Essaouira (Marrakech)",
+      "nombre_biens": 182,
+      "prix_moyen": 3514976,
+      "prix_median": 2448462,
+      "prix_m2_moyen": 15824,
+      "prix_min": 190000.0,
+      "prix_max": 16500000.0,
+      "prix_par_type": {
+        "Appartement": 1724888,
+        "Ferme": 2803846,
+        "Local commercial": 1884718,
+        "Maison": 2004480,
+        "Riad": 6601698,
+        "Terrain": 2416329,
+        "Villa": 5576537
+      },
+      "lat": 31.62914,
+      "lng": -7.98821
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Victor Hugo",
+      "nombre_biens": 162,
+      "prix_moyen": 1843127,
+      "prix_median": 1269444,
+      "prix_m2_moyen": 14965,
+      "prix_min": 170000.0,
+      "prix_max": 9800000.0,
+      "prix_par_type": {
+        "Appartement": 1144650,
+        "Ferme": 2872222,
+        "Local commercial": 1728913,
+        "Maison": 1628704,
+        "Riad": 2867870,
+        "Terrain": 4743750,
+        "Villa": 4725128
+      },
+      "lat": 31.637,
+      "lng": -8.015
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Essaouira (Ville/Autre)",
+      "nombre_biens": 158,
+      "prix_moyen": 5286246.84,
+      "prix_median": 4900000.0,
+      "prix_m2_moyen": 11696.31,
+      "prix_min": 140000.0,
+      "prix_max": 18500000.0,
+      "prix_par_type": {
+        "Appartement": 1971428.57,
+        "Ferme": 5200000.0,
+        "Maison": 3333750.0,
+        "Terrain": 3266914.63,
+        "Villa": 6491222.77
+      },
+      "lat": 31.5125,
+      "lng": -9.77
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Daoudiate",
+      "nombre_biens": 152,
+      "prix_moyen": 2488402,
+      "prix_median": 1446579,
+      "prix_m2_moyen": 16058,
+      "prix_min": 140000.0,
+      "prix_max": 18000000.0,
+      "prix_par_type": {
+        "Appartement": 1232171,
+        "Local commercial": 1816025,
+        "Maison": 1453821,
+        "Riad": 4919539,
+        "Terrain": 1430132,
+        "Villa": 6082802
+      },
+      "lat": 31.655,
+      "lng": -7.99
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Majorelle",
+      "nombre_biens": 151,
+      "prix_moyen": 2301242,
+      "prix_median": 1590397,
+      "prix_m2_moyen": 15333,
+      "prix_min": 230000.0,
+      "prix_max": 16540000.0,
+      "prix_par_type": {
+        "Appartement": 1337071,
+        "Ferme": 2449669,
+        "Local commercial": 1971361,
+        "Maison": 2104645,
+        "Riad": 2698799,
+        "Terrain": 3637499,
+        "Villa": 4986587
+      },
+      "lat": 31.642,
+      "lng": -8.002
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Ain Mezouar",
+      "nombre_biens": 151,
+      "prix_moyen": 2111642,
+      "prix_median": 1369868,
+      "prix_m2_moyen": 14146,
+      "prix_min": 100000.0,
+      "prix_max": 12000000.0,
+      "prix_par_type": {
+        "Appartement": 1267252,
+        "Ferme": 1708609,
+        "Local commercial": 1872682,
+        "Maison": 590182,
+        "Riad": 2822682,
+        "Terrain": 2392409,
+        "Villa": 5822491
+      },
+      "lat": 31.62218,
+      "lng": -7.991359999999999
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Route de l'Ourika",
+      "nombre_biens": 125,
+      "prix_moyen": 4523585.6,
+      "prix_median": 3980000.0,
+      "prix_m2_moyen": 9362.04,
+      "prix_min": 120000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1800000.0,
+        "Ferme": 4933333.33,
+        "Maison": 1933846.15,
+        "Riad": 1800000.0,
+        "Terrain": 2691040.0,
+        "Villa": 5781276.32
+      },
+      "lat": 31.55,
+      "lng": -7.95
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Route de l'Ourika",
+      "nombre_biens": 120,
+      "prix_moyen": 3822625.33,
+      "prix_median": 2675000.0,
+      "prix_m2_moyen": 8464.7,
+      "prix_min": 180000.0,
+      "prix_max": 12800000.0,
+      "prix_par_type": {
+        "Appartement": 1537000.0,
+        "Local commercial": 1490000.0,
+        "Maison": 1011428.57,
+        "Riad": 825000.0,
+        "Terrain": 3218430.94,
+        "Villa": 5586131.91
+      },
+      "lat": 31.55,
+      "lng": -7.95
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Amerchich",
+      "nombre_biens": 116,
+      "prix_moyen": 2013307,
+      "prix_median": 1260345,
+      "prix_m2_moyen": 13276,
+      "prix_min": 145000.0,
+      "prix_max": 15300000.0,
+      "prix_par_type": {
+        "Appartement": 1148849,
+        "Local commercial": 1936498,
+        "Maison": 1964224,
+        "Riad": 1967219,
+        "Terrain": 2484796,
+        "Villa": 5312687,
+        "Ferme": 594828
+      },
+      "lat": 31.652,
+      "lng": -7.996
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route de Tamansourt",
+      "nombre_biens": 115,
+      "prix_moyen": 1840555,
+      "prix_median": 1312957,
+      "prix_m2_moyen": 13363,
+      "prix_min": 130000.0,
+      "prix_max": 11000000.0,
+      "prix_par_type": {
+        "Appartement": 1137021,
+        "Ferme": 2830435,
+        "Local commercial": 1703826,
+        "Maison": 2122082,
+        "Riad": 5031304,
+        "Terrain": 2115918,
+        "Villa": 3522361
+      },
+      "lat": 31.724079999999997,
+      "lng": -8.11618
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Abdellah Ghiat",
+      "nombre_biens": 111,
+      "prix_moyen": 2840317,
+      "prix_median": 1627613,
+      "prix_m2_moyen": 14012,
+      "prix_min": 160000.0,
+      "prix_max": 15000000.0,
+      "prix_par_type": {
+        "Appartement": 1242741,
+        "Ferme": 2729730,
+        "Local commercial": 1227207,
+        "Maison": 2229473,
+        "Riad": 4029009,
+        "Terrain": 2838087,
+        "Villa": 4629221,
+        "Immeuble": 199099
+      },
+      "lat": 31.63646,
+      "lng": -7.98659
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Ben Saleh",
+      "nombre_biens": 108,
+      "prix_moyen": 3123869,
+      "prix_median": 1881111,
+      "prix_m2_moyen": 14305,
+      "prix_min": 140000.0,
+      "prix_max": 18200000.0,
+      "prix_par_type": {
+        "Appartement": 1371715,
+        "Local commercial": 2333333,
+        "Maison": 2068704,
+        "Riad": 2482889,
+        "Terrain": 4176181,
+        "Villa": 5764659
+      },
+      "lat": 31.629830000000002,
+      "lng": -7.9729399999999995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Massira 1",
+      "nombre_biens": 107,
+      "prix_moyen": 1900888,
+      "prix_median": 1422093,
+      "prix_m2_moyen": 13012,
+      "prix_min": 130000.0,
+      "prix_max": 12500000.0,
+      "prix_par_type": {
+        "Appartement": 1185748,
+        "Ferme": 1046729,
+        "Local commercial": 1044860,
+        "Maison": 1654019,
+        "Riad": 9976636,
+        "Terrain": 3964984,
+        "Villa": 3504175,
+        "Immeuble": 630841
+      },
+      "lat": 31.635,
+      "lng": -8.052
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Riad Zitoun",
+      "nombre_biens": 106,
+      "prix_moyen": 3721816,
+      "prix_median": 2774340,
+      "prix_m2_moyen": 17360,
+      "prix_min": 155000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 1495846,
+        "Local commercial": 2053019,
+        "Maison": 3570440,
+        "Riad": 3423892,
+        "Terrain": 4511869,
+        "Villa": 7224631
+      },
+      "lat": 31.61918,
+      "lng": -7.967479999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Es Saada",
+      "nombre_biens": 106,
+      "prix_moyen": 1192141,
+      "prix_median": 1025264,
+      "prix_m2_moyen": 12845,
+      "prix_min": 150000.0,
+      "prix_max": 4200000.0,
+      "prix_par_type": {
+        "Appartement": 1129287,
+        "Local commercial": 1585361,
+        "Maison": 879380,
+        "Terrain": 1391772,
+        "Villa": 1815094
+      },
+      "lat": 31.62716,
+      "lng": -7.98224
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Marrakech",
+      "nombre_biens": 101,
+      "prix_moyen": 3457315,
+      "prix_median": 2060891,
+      "prix_m2_moyen": 15431,
+      "prix_min": 255000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1382232,
+        "Local commercial": 3289125,
+        "Maison": 3334488,
+        "Riad": 3102970,
+        "Terrain": 3646733,
+        "Villa": 6975152
+      },
+      "lat": 31.62713,
+      "lng": -7.967479999999999
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Casablanca",
+      "nombre_biens": 94,
+      "prix_moyen": 5089367.5,
+      "prix_median": 4700000.0,
+      "prix_m2_moyen": 12834.58,
+      "prix_min": 600000.0,
+      "prix_max": 16100000.0,
+      "prix_par_type": {
+        "Appartement": 1286000.0,
+        "Maison": 4193750.0,
+        "Terrain": 3102990.0,
+        "Villa": 5737896.41
+      },
+      "lat": 31.545900000000003,
+      "lng": -7.9852
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Autre",
+      "nombre_biens": 94,
+      "prix_moyen": 1434468,
+      "prix_median": 1238830,
+      "prix_m2_moyen": 15991,
+      "prix_min": 125000.0,
+      "prix_max": 8000000.0,
+      "prix_par_type": {
+        "Appartement": 1227730,
+        "Maison": 2478617,
+        "Riad": 5480851,
+        "Terrain": 3621277,
+        "Villa": 1512128
+      },
+      "lat": 31.63784,
+      "lng": -7.989529999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Youssef Ben Ali",
+      "nombre_biens": 94,
+      "prix_moyen": 2367555,
+      "prix_median": 1669043,
+      "prix_m2_moyen": 14211,
+      "prix_min": 150000.0,
+      "prix_max": 15000000.0,
+      "prix_par_type": {
+        "Appartement": 1574443,
+        "Ferme": 2936170,
+        "Local commercial": 1366809,
+        "Maison": 1469031,
+        "Riad": 5085532,
+        "Terrain": 2357887,
+        "Villa": 4650745
+      },
+      "lat": 31.63988,
+      "lng": -7.96934
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Rmila",
+      "nombre_biens": 92,
+      "prix_moyen": 4504885,
+      "prix_median": 2698261,
+      "prix_m2_moyen": 17598,
+      "prix_min": 300000.0,
+      "prix_max": 20350000.0,
+      "prix_par_type": {
+        "Appartement": 1696250,
+        "Local commercial": 343478,
+        "Maison": 2373435,
+        "Riad": 3803031,
+        "Terrain": 3531986,
+        "Villa": 8492555
+      },
+      "lat": 31.63226,
+      "lng": -7.98509
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Guéliz",
+      "nombre_biens": 91,
+      "prix_moyen": 4654771.43,
+      "prix_median": 4500000.0,
+      "prix_m2_moyen": 10608.59,
+      "prix_min": 170000.0,
+      "prix_max": 12500000.0,
+      "prix_par_type": {
+        "Appartement": 1510000.0,
+        "Ferme": 3500000.0,
+        "Local commercial": 785000.0,
+        "Maison": 4500000.0,
+        "Terrain": 3813913.04,
+        "Villa": 5539021.05
+      },
+      "lat": 31.634,
+      "lng": -8.01
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Guéliz",
+      "nombre_biens": 84,
+      "prix_moyen": 4113023.81,
+      "prix_median": 3500000.0,
+      "prix_m2_moyen": 12622.16,
+      "prix_min": 165000.0,
+      "prix_max": 14300000.0,
+      "prix_par_type": {
+        "Appartement": 1360833.33,
+        "Ferme": 3200000.0,
+        "Local commercial": 2000000.0,
+        "Maison": 2179285.71,
+        "Terrain": 2980642.86,
+        "Villa": 6018953.49
+      },
+      "lat": 31.634,
+      "lng": -8.01
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Av Abdelkrim El Khattabi",
+      "nombre_biens": 80,
+      "prix_moyen": 1585525,
+      "prix_median": 1171562,
+      "prix_m2_moyen": 12952,
+      "prix_min": 200000.0,
+      "prix_max": 9250000.0,
+      "prix_par_type": {
+        "Appartement": 1202722,
+        "Local commercial": 941542,
+        "Maison": 1561850,
+        "Riad": 705312,
+        "Villa": 5150479,
+        "Terrain": 431458,
+        "Ferme": 641250
+      },
+      "lat": 31.63559,
+      "lng": -7.986949999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Massira",
+      "nombre_biens": 78,
+      "prix_moyen": 1482227,
+      "prix_median": 1159615,
+      "prix_m2_moyen": 13991,
+      "prix_min": 150000.0,
+      "prix_max": 10000000.0,
+      "prix_par_type": {
+        "Appartement": 1082877,
+        "Local commercial": 906667,
+        "Maison": 1676923,
+        "Riad": 1996410,
+        "Villa": 6000000,
+        "Terrain": 187499,
+        "Immeuble": 323077
+      },
+      "lat": 31.635,
+      "lng": -8.055
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Route d'Amizmiz",
+      "nombre_biens": 77,
+      "prix_moyen": 4553699.61,
+      "prix_median": 4500000.0,
+      "prix_m2_moyen": 10078.84,
+      "prix_min": 300000.0,
+      "prix_max": 10000000.0,
+      "prix_par_type": {
+        "Appartement": 1207500.0,
+        "Local commercial": 1400000.0,
+        "Maison": 4332000.0,
+        "Riad": 5500000.0,
+        "Terrain": 4005869.57,
+        "Villa": 5235113.26
+      },
+      "lat": 31.537110000000002,
+      "lng": -7.978
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Bouaakkaz",
+      "nombre_biens": 76,
+      "prix_moyen": 2214526,
+      "prix_median": 1317105,
+      "prix_m2_moyen": 12553,
+      "prix_min": 120000.0,
+      "prix_max": 11550000.0,
+      "prix_par_type": {
+        "Appartement": 992050,
+        "Ferme": 2406579,
+        "Local commercial": 1299737,
+        "Maison": 1573496,
+        "Riad": 2053070,
+        "Terrain": 7661140,
+        "Villa": 5243347
+      },
+      "lat": 31.63091,
+      "lng": -7.96835
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Bou Amar",
+      "nombre_biens": 75,
+      "prix_moyen": 3045196,
+      "prix_median": 2025867,
+      "prix_m2_moyen": 18219,
+      "prix_min": 400000.0,
+      "prix_max": 19000000.0,
+      "prix_par_type": {
+        "Appartement": 1647732,
+        "Local commercial": 853333,
+        "Maison": 3167511,
+        "Riad": 2629911,
+        "Terrain": 4206704,
+        "Villa": 5677778
+      },
+      "lat": 31.64408,
+      "lng": -7.9755199999999995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Camp Al Ghoul",
+      "nombre_biens": 74,
+      "prix_moyen": 2998110,
+      "prix_median": 1910807,
+      "prix_m2_moyen": 17321,
+      "prix_min": 350000.0,
+      "prix_max": 17600000.0,
+      "prix_par_type": {
+        "Appartement": 1516133,
+        "Local commercial": 1575808,
+        "Maison": 3710631,
+        "Riad": 4771486,
+        "Terrain": 4171778,
+        "Villa": 5561004
+      },
+      "lat": 31.62737,
+      "lng": -7.98992
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Indéfini",
+      "nombre_biens": 74,
+      "prix_moyen": 3734757,
+      "prix_median": 2864865,
+      "prix_m2_moyen": 17723,
+      "prix_min": 300000.0,
+      "prix_max": 11000000.0,
+      "prix_par_type": {
+        "Appartement": 1551676,
+        "Local commercial": 2676569,
+        "Maison": 3984906,
+        "Riad": 868108,
+        "Terrain": 2116216,
+        "Villa": 5464912
+      },
+      "lat": 31.61921,
+      "lng": -7.9925
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Route De Sidi A. Ghiat",
+      "nombre_biens": 73,
+      "prix_moyen": 2508406,
+      "prix_median": 1854795,
+      "prix_m2_moyen": 11355,
+      "prix_min": 100000.0,
+      "prix_max": 9000000.0,
+      "prix_par_type": {
+        "Appartement": 1161571,
+        "Ferme": 1606164,
+        "Maison": 1404247,
+        "Riad": 5158219,
+        "Terrain": 1743597,
+        "Villa": 3654625
+      },
+      "lat": 31.638650000000002,
+      "lng": -7.9853
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Mouassine",
+      "nombre_biens": 73,
+      "prix_moyen": 2719884,
+      "prix_median": 1856849,
+      "prix_m2_moyen": 16682,
+      "prix_min": 533000.0,
+      "prix_max": 8200000.0,
+      "prix_par_type": {
+        "Appartement": 1489712,
+        "Local commercial": 1187808,
+        "Maison": 2815205,
+        "Riad": 2886758,
+        "Terrain": 2518128,
+        "Villa": 4979139
+      },
+      "lat": 31.62269,
+      "lng": -7.990399999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Azli",
+      "nombre_biens": 72,
+      "prix_moyen": 2297047,
+      "prix_median": 1598611,
+      "prix_m2_moyen": 15374,
+      "prix_min": 150000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1376773,
+        "Local commercial": 596829,
+        "Maison": 1926368,
+        "Terrain": 1768854,
+        "Villa": 4997284
+      },
+      "lat": 31.61978,
+      "lng": -7.97321
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Essaouira - Ghazoua",
+      "nombre_biens": 72,
+      "prix_moyen": 4125000,
+      "prix_median": 2962500,
+      "prix_m2_moyen": 13813,
+      "prix_min": 140000.0,
+      "prix_max": 20350000.0,
+      "prix_par_type": {
+        "Appartement": 1520202,
+        "Local commercial": 1322222,
+        "Maison": 2571852,
+        "Riad": 3422222,
+        "Terrain": 2848259,
+        "Villa": 5912830
+      },
+      "lat": 31.62005,
+      "lng": -7.9848799999999995
+    },
+    {
+      "commune_fr": "Zaouia Annahlia",
+      "localisation_quartier": "Essaouira (Ville/Autre)",
+      "nombre_biens": 70,
+      "prix_moyen": 4326228.57,
+      "prix_median": 2907500.0,
+      "prix_m2_moyen": 19641.86,
+      "prix_min": 1300000.0,
+      "prix_max": 19100000.0,
+      "prix_par_type": {
+        "Appartement": 2437382.35,
+        "Maison": 4800000.0,
+        "Terrain": 3866875.0,
+        "Villa": 6823333.33
+      },
+      "lat": 31.5125,
+      "lng": -9.77
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Assif",
+      "nombre_biens": 70,
+      "prix_moyen": 2962261,
+      "prix_median": 2435714,
+      "prix_m2_moyen": 14090,
+      "prix_min": 115000.0,
+      "prix_max": 12500000.0,
+      "prix_par_type": {
+        "Appartement": 1216189,
+        "Local commercial": 2357612,
+        "Maison": 3492857,
+        "Riad": 4957143,
+        "Terrain": 3288523,
+        "Villa": 5093452,
+        "Ferme": 1971429
+      },
+      "lat": 31.63136,
+      "lng": -7.991899999999999
+    },
+    {
+      "commune_fr": "Mechouar Kasbah",
+      "localisation_quartier": "Guéliz",
+      "nombre_biens": 69,
+      "prix_moyen": 2966492.75,
+      "prix_median": 2400000.0,
+      "prix_m2_moyen": 20812.05,
+      "prix_min": 200000.0,
+      "prix_max": 20000000.0,
+      "prix_par_type": {
+        "Appartement": 2392258.06,
+        "Local commercial": 542000.0,
+        "Maison": 4023750.0,
+        "Riad": 2508533.33,
+        "Terrain": 3566666.67,
+        "Villa": 6757142.86
+      },
+      "lat": 31.634,
+      "lng": -8.01
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Centre Ville",
+      "nombre_biens": 69,
+      "prix_moyen": 1871775,
+      "prix_median": 1350000,
+      "prix_m2_moyen": 12784,
+      "prix_min": 280000.0,
+      "prix_max": 7900000.0,
+      "prix_par_type": {
+        "Appartement": 1200802,
+        "Local commercial": 2288435,
+        "Maison": 1598302,
+        "Riad": 2101449,
+        "Terrain": 2598388,
+        "Villa": 4619826
+      },
+      "lat": 31.63553,
+      "lng": -7.971139999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Kennaria",
+      "nombre_biens": 67,
+      "prix_moyen": 3982239,
+      "prix_median": 2193433,
+      "prix_m2_moyen": 15602,
+      "prix_min": 380000.0,
+      "prix_max": 20350000.0,
+      "prix_par_type": {
+        "Appartement": 1625837,
+        "Immeuble": 4402985,
+        "Maison": 2040469,
+        "Riad": 4402985,
+        "Terrain": 3748827,
+        "Villa": 7109450
+      },
+      "lat": 31.61459,
+      "lng": -7.971229999999999
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Route de Fès",
+      "nombre_biens": 65,
+      "prix_moyen": 4075461.54,
+      "prix_median": 3600000.0,
+      "prix_m2_moyen": 9193.7,
+      "prix_min": 245000.0,
+      "prix_max": 12000000.0,
+      "prix_par_type": {
+        "Appartement": 865000.0,
+        "Maison": 1390000.0,
+        "Terrain": 2560040.0,
+        "Villa": 5469972.22
+      },
+      "lat": 31.64,
+      "lng": -7.92
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Ksibat Nhas",
+      "nombre_biens": 65,
+      "prix_moyen": 3506608,
+      "prix_median": 2336062,
+      "prix_m2_moyen": 18791,
+      "prix_min": 420000.0,
+      "prix_max": 18100000.0,
+      "prix_par_type": {
+        "Appartement": 1801313,
+        "Ferme": 1329231,
+        "Local commercial": 4363615,
+        "Maison": 2036231,
+        "Riad": 2326154,
+        "Terrain": 4990385,
+        "Villa": 6925429
+      },
+      "lat": 31.63619,
+      "lng": -7.9681999999999995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Bab Doukkala",
+      "nombre_biens": 63,
+      "prix_moyen": 1920472,
+      "prix_median": 1424444,
+      "prix_m2_moyen": 11962,
+      "prix_min": 240000.0,
+      "prix_max": 9940000.0,
+      "prix_par_type": {
+        "Appartement": 1156367,
+        "Local commercial": 1333333,
+        "Maison": 1361481,
+        "Riad": 2697778,
+        "Terrain": 7331389,
+        "Villa": 2712444
+      },
+      "lat": 31.634,
+      "lng": -7.994
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Route de Fès",
+      "nombre_biens": 62,
+      "prix_moyen": 4304445.73,
+      "prix_median": 4820000.0,
+      "prix_m2_moyen": 8652.17,
+      "prix_min": 250000.0,
+      "prix_max": 11500000.0,
+      "prix_par_type": {
+        "Maison": 1350000.0,
+        "Terrain": 2590625.0,
+        "Villa": 5495963.11
+      },
+      "lat": 31.64,
+      "lng": -7.92
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Targa",
+      "nombre_biens": 62,
+      "prix_moyen": 3769661.29,
+      "prix_median": 2900000.0,
+      "prix_m2_moyen": 8706.05,
+      "prix_min": 290000.0,
+      "prix_max": 14000000.0,
+      "prix_par_type": {
+        "Appartement": 510000.0,
+        "Maison": 1616666.67,
+        "Riad": 1656666.67,
+        "Terrain": 2459312.5,
+        "Villa": 4829736.84
+      },
+      "lat": 31.64,
+      "lng": -8.05
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Bab Ghmat",
+      "nombre_biens": 59,
+      "prix_moyen": 3411689,
+      "prix_median": 2513559,
+      "prix_m2_moyen": 17044,
+      "prix_min": 380000.0,
+      "prix_max": 18000000.0,
+      "prix_par_type": {
+        "Appartement": 1993319,
+        "Maison": 3077288,
+        "Riad": 1810932,
+        "Terrain": 3630508,
+        "Villa": 6685072
+      },
+      "lat": 31.63112,
+      "lng": -7.9679899999999995
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Mimoun",
+      "nombre_biens": 58,
+      "prix_moyen": 3268598,
+      "prix_median": 2810345,
+      "prix_m2_moyen": 17670,
+      "prix_min": 260000.0,
+      "prix_max": 13000000.0,
+      "prix_par_type": {
+        "Appartement": 1743459,
+        "Maison": 6084483,
+        "Riad": 3545733,
+        "Terrain": 2466839,
+        "Villa": 4910769
+      },
+      "lat": 31.62,
+      "lng": -7.995
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Targa",
+      "nombre_biens": 55,
+      "prix_moyen": 3861232.73,
+      "prix_median": 2600000.0,
+      "prix_m2_moyen": 8532.12,
+      "prix_min": 430000.0,
+      "prix_max": 13500000.0,
+      "prix_par_type": {
+        "Appartement": 1410000.0,
+        "Local commercial": 680000.0,
+        "Maison": 1812500.0,
+        "Terrain": 3341643.48,
+        "Villa": 5139583.33
+      },
+      "lat": 31.64,
+      "lng": -8.05
+    },
+    {
+      "commune_fr": "Ourika",
+      "localisation_quartier": "Route d'Amizmiz",
+      "nombre_biens": 54,
+      "prix_moyen": 4548888.87,
+      "prix_median": 4400000.0,
+      "prix_m2_moyen": 10455.33,
+      "prix_min": 200000.0,
+      "prix_max": 11500000.0,
+      "prix_par_type": {
+        "Appartement": 1400000.0,
+        "Maison": 3464999.5,
+        "Terrain": 2552307.69,
+        "Villa": 5371842.11
+      },
+      "lat": 31.32211,
+      "lng": -7.783
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Assouel",
+      "nombre_biens": 54,
+      "prix_moyen": 4333056,
+      "prix_median": 3466667,
+      "prix_m2_moyen": 17888,
+      "prix_min": 340000.0,
+      "prix_max": 14500000.0,
+      "prix_par_type": {
+        "Appartement": 1619278,
+        "Local commercial": 4500000,
+        "Maison": 2422619,
+        "Riad": 5097619,
+        "Terrain": 8911667,
+        "Villa": 6922051
+      },
+      "lat": 31.63916,
+      "lng": -7.96964
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Ben Slimane El Jazouli",
+      "nombre_biens": 54,
+      "prix_moyen": 4335370,
+      "prix_median": 3107222,
+      "prix_m2_moyen": 17144,
+      "prix_min": 390000.0,
+      "prix_max": 13000000.0,
+      "prix_par_type": {
+        "Appartement": 1399430,
+        "Local commercial": 816667,
+        "Maison": 1637556,
+        "Riad": 3591778,
+        "Terrain": 4288889,
+        "Villa": 7457870,
+        "Immeuble": 888889
+      },
+      "lat": 31.6247,
+      "lng": -7.98152
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Afaq",
+      "nombre_biens": 53,
+      "prix_moyen": 1640452,
+      "prix_median": 1343396,
+      "prix_m2_moyen": 13238,
+      "prix_min": 300000.0,
+      "prix_max": 4600000.0,
+      "prix_par_type": {
+        "Appartement": 950815,
+        "Local commercial": 629245,
+        "Maison": 1883491,
+        "Riad": 2661006,
+        "Terrain": 1053679,
+        "Villa": 2836313
+      },
+      "lat": 31.62443,
+      "lng": -7.98947
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Moulay Lyazid",
+      "nombre_biens": 53,
+      "prix_moyen": 3449683,
+      "prix_median": 2339623,
+      "prix_m2_moyen": 16544,
+      "prix_min": 640000.0,
+      "prix_max": 13000000.0,
+      "prix_par_type": {
+        "Appartement": 1480401,
+        "Local commercial": 2075472,
+        "Maison": 2865509,
+        "Riad": 3403473,
+        "Terrain": 3773585,
+        "Villa": 5654289
+      },
+      "lat": 31.62953,
+      "lng": -7.98971
+    },
+    {
+      "commune_fr": "Mechouar Kasbah",
+      "localisation_quartier": "Route de l'Ourika",
+      "nombre_biens": 52,
+      "prix_moyen": 3159948.08,
+      "prix_median": 2400000.0,
+      "prix_m2_moyen": 16375.26,
+      "prix_min": 150000.0,
+      "prix_max": 15000000.0,
+      "prix_par_type": {
+        "Appartement": 2089444.44,
+        "Maison": 1200000.0,
+        "Riad": 2810000.0,
+        "Terrain": 3018900.0,
+        "Villa": 5506785.71
+      },
+      "lat": 31.55,
+      "lng": -7.95
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Rahba Kedima",
+      "nombre_biens": 52,
+      "prix_moyen": 2930654,
+      "prix_median": 1903846,
+      "prix_m2_moyen": 14998,
+      "prix_min": 175000.0,
+      "prix_max": 12800000.0,
+      "prix_par_type": {
+        "Appartement": 1484130,
+        "Local commercial": 3257692,
+        "Maison": 1528462,
+        "Riad": 2448205,
+        "Terrain": 5810128,
+        "Villa": 5621462
+      },
+      "lat": 31.63667,
+      "lng": -7.983289999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Bab Aylan",
+      "nombre_biens": 52,
+      "prix_moyen": 3355481,
+      "prix_median": 1891154,
+      "prix_m2_moyen": 15784,
+      "prix_min": 215000.0,
+      "prix_max": 15620000.0,
+      "prix_par_type": {
+        "Appartement": 1420402,
+        "Local commercial": 1901923,
+        "Maison": 1467788,
+        "Riad": 4382692,
+        "Terrain": 2014327,
+        "Villa": 8034673
+      },
+      "lat": 31.6376,
+      "lng": -7.98197
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Zaouia Sidi Ghalem",
+      "nombre_biens": 52,
+      "prix_moyen": 3001510,
+      "prix_median": 1958462,
+      "prix_m2_moyen": 17790,
+      "prix_min": 430000.0,
+      "prix_max": 12800000.0,
+      "prix_par_type": {
+        "Appartement": 1504171,
+        "Immeuble": 2492308,
+        "Local commercial": 2700000,
+        "Maison": 3149359,
+        "Riad": 3468462,
+        "Terrain": 2769872,
+        "Villa": 6047179
+      },
+      "lat": 31.6151,
+      "lng": -7.97276
+    },
+    {
+      "commune_fr": "Tasoultante",
+      "localisation_quartier": "Route de Tahanaout",
+      "nombre_biens": 51,
+      "prix_moyen": 4520598.04,
+      "prix_median": 2800000.0,
+      "prix_m2_moyen": 9820.83,
+      "prix_min": 500000.0,
+      "prix_max": 16400000.0,
+      "prix_par_type": {
+        "Appartement": 1487000.0,
+        "Ferme": 2600000.0,
+        "Local commercial": 2600000.0,
+        "Maison": 700000.0,
+        "Terrain": 2680714.29,
+        "Villa": 6196051.72
+      },
+      "lat": 31.536240000000003,
+      "lng": -7.960089999999999
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Massira 3",
+      "nombre_biens": 51,
+      "prix_moyen": 2286686,
+      "prix_median": 1324510,
+      "prix_m2_moyen": 14405,
+      "prix_min": 170000.0,
+      "prix_max": 16000000.0,
+      "prix_par_type": {
+        "Appartement": 1139301,
+        "Immeuble": 1552941,
+        "Local commercial": 912784,
+        "Maison": 1285490,
+        "Riad": 5586928,
+        "Terrain": 1569052,
+        "Villa": 6817059
+      },
+      "lat": 31.639,
+      "lng": -8.064
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Chichaoua",
+      "nombre_biens": 50,
+      "prix_moyen": 4136180,
+      "prix_median": 2490000,
+      "prix_m2_moyen": 17714,
+      "prix_min": 1000000.0,
+      "prix_max": 18000000.0,
+      "prix_par_type": {
+        "Appartement": 1906046,
+        "Local commercial": 1715000,
+        "Maison": 3488800,
+        "Riad": 7382667,
+        "Terrain": 1923250,
+        "Villa": 8347385
+      },
+      "lat": 31.6343,
+      "lng": -7.98002
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Arset Ben Chebli",
+      "nombre_biens": 50,
+      "prix_moyen": 3018440,
+      "prix_median": 2077000,
+      "prix_m2_moyen": 13465,
+      "prix_min": 118000.0,
+      "prix_max": 15300000.0,
+      "prix_par_type": {
+        "Appartement": 1485205,
+        "Ferme": 2520000,
+        "Local commercial": 2163000,
+        "Maison": 3979500,
+        "Riad": 1707300,
+        "Terrain": 2813100,
+        "Villa": 5064500,
+        "Immeuble": 2448000
+      },
+      "lat": 31.62047,
+      "lng": -7.98128
+    },
+    {
+      "commune_fr": "Marrakech",
+      "localisation_quartier": "Sidi Abbad",
+      "nombre_biens": 50,
+      "prix_moyen": 2337559,
+      "prix_median": 1584900,
+      "prix_m2_moyen": 12033,
+      "prix_min": 340000.0,
+      "prix_max": 9001000.0,
+      "prix_par_type": {
+        "Appartement": 1233100,
+        "Local commercial": 1249931,
+        "Maison": 1284000,
+        "Terrain": 1644201,
+        "Villa": 5595533
+      },
+      "lat": 31.63685,
+      "lng": -7.99472
+    }
+  ],
+  "property_types": [
+    "Appartement",
+    "Autres",
+    "Ferme",
+    "Immeuble",
+    "Local commercial",
+    "Maison",
+    "Riad",
+    "Terrain",
+    "Villa"
+  ]
+}
