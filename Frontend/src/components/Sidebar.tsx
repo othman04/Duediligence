@@ -21,6 +21,7 @@ import {
 } from "lucide-react";
 import logoOrchidIsland from "../assets/logoOrchidIsland.png";
 import { useAuthStore } from "../store/authStore";
+import MobileMenu from "./MobileMenu";
 
 /* ─── Palette ────────────────────────────────────────────── */
 const C = {
@@ -497,9 +498,12 @@ export function SidebarLayout({ children }: SidebarLayoutProps) {
   }, [isCollapsed]);
 
   return (
-    <div style={{ display: 'flex', minHeight: '100vh', background: '#EDE8DF' }}>
+    <>
+      {/* Header + drawer mobile : visibles uniquement ≤ 1023px (CSS). */}
+      <MobileMenu />
+      <div style={{ display: 'flex', minHeight: '100vh', background: '#EDE8DF' }}>
       {/* Collapsible Sidebar */}
-      <aside style={{
+      <aside className="app-sidebar" style={{
         width: isCollapsed ? 76 : 272,
         flexShrink: 0,
         height: '100vh',
@@ -553,6 +557,7 @@ export function SidebarLayout({ children }: SidebarLayoutProps) {
       <div style={{ flex: 1, minWidth: 0, display: 'flex', flexDirection: 'column' }}>
         {children}
       </div>
-    </div>
+      </div>
+    </>
   );
 }

@@ -76,14 +76,14 @@ export default function LoginPage() {
 
         <div className="login-card">
           {/* En-tête de la carte avec Logo de la marque */}
-          <div className="login-card-header text-center">
-            <div className="login-card-brand mb-4 flex flex-col items-center">
+          <div className="login-card-header" style={{ textAlign: 'center' }}>
+            <div className="login-card-brand" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginBottom: '1rem' }}>
               <img
                 src={logoOrchid}
                 alt="Orchid Island Logo"
-                className="h-16 w-auto object-contain mb-1"
+                style={{ height: 64, width: 'auto', objectFit: 'contain', marginBottom: 4 }}
               />
-              <span className="text-[0.65rem] font-bold tracking-[0.24em] uppercase text-[#9a421d] opacity-85">
+              <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.24em', textTransform: 'uppercase', color: '#9a421d', opacity: 0.85 }}>
                 Due diligence
               </span>
             </div>
