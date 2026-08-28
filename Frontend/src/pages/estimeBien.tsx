@@ -766,7 +766,9 @@ function StepInfo({
           </p>
           <div style={{
             display: 'grid', gap: 12,
-            gridTemplateColumns: 'repeat(6, 1fr)',
+            // Responsive : 6 colonnes sur desktop, s'adapte automatiquement
+            // (2-3 colonnes) sur mobile au lieu d'écraser les libellés.
+            gridTemplateColumns: 'repeat(auto-fit, minmax(112px, 1fr))',
             width: '100%',
           }}>
             {PROPERTY_TYPES
@@ -2152,7 +2154,7 @@ function StepResult({ state, onReset }: { state: FormState; onReset: () => void 
                 const positive = s.contribution >= 0;
                 const pct = (Math.abs(s.contribution) / maxAbs) * 50;
                 return (
-                  <div key={s.feature} style={{ display: 'grid', gridTemplateColumns: '170px 1fr 90px', alignItems: 'center', gap: 12 }}>
+                  <div key={s.feature} style={{ display: 'grid', gridTemplateColumns: 'minmax(96px, 170px) 1fr minmax(64px, 90px)', alignItems: 'center', gap: 12 }}>
                     <span style={{ fontSize: '0.8rem', fontWeight: 600, color: C.inkSoft, textAlign: 'right' }}>
                       {s.label}
                     </span>

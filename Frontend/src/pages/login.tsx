@@ -69,11 +69,6 @@ export default function LoginPage() {
 
       {/* ── Panneau formulaire droit ─────────────────────── */}
       <section className="login-form-panel">
-        <div className="login-mobile-brand">
-          <img src={logoOrchid} alt="Orchid Island" />
-          <span>Due diligence</span>
-        </div>
-
         <div className="login-card">
           {/* En-tête de la carte avec Logo de la marque */}
           <div className="login-card-header" style={{ textAlign: 'center' }}>

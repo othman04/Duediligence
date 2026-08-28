@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
-  BarChart3, Calculator, ChevronDown, FileText, History,
-  Home, LineChart, LogOut, Menu, ShieldCheck, Sparkles, User, UserPlus, X,
+  BarChart3, Calculator, FileText, History,
+  LineChart, LogOut, Menu, ShieldCheck, User, UserPlus, X,
 } from 'lucide-react';
 import { useAuthStore } from '../store/authStore';
 import logoOrchid from '../assets/logoOrchidIsland.png';
@@ -16,6 +16,9 @@ const NAV_ITEMS = [
   { label: 'Historique', icon: History, path: '/historique', roles: ['superAdmin'] },
   { label: 'Admin', icon: UserPlus, path: '/admin', roles: ['superAdmin'] },
 ];
+
+// CTA « Rapport complet » : visible pour les mêmes rôles que la sidebar desktop.
+const RAPPORT_ROLES = ['admin', 'superAdmin'];
 
 export default function MobileMenu() {
   const [isOpen, setIsOpen] = useState(false);
@@ -94,7 +97,7 @@ export default function MobileMenu() {
                     <User size={20} />
                   </div>
                   <div className="mobile-user-details">
-                    <span className="mobile-user-name">{user.name || user.email}</span>
+                    <span className="mobile-user-name">{user.email}</span>
                     <span className="mobile-user-role">{user.role}</span>
                   </div>
                 </div>
@@ -118,8 +121,17 @@ export default function MobileMenu() {
                 })}
               </nav>
 
-              {/* Logout */}
+              {/* Logout + CTA Rapport complet */}
               <div className="mobile-sidebar-footer">
+                {RAPPORT_ROLES.includes(userRole) && (
+                  <button
+                    className="mobile-rapport-btn"
+                    onClick={() => handleNavigate('/rapport-complet')}
+                  >
+                    <FileText size={18} />
+                    <span>Rapport complet</span>
+                  </button>
+                )}
                 <button
                   className="mobile-logout-btn"
                   onClick={() => { logout(); setIsOpen(false); }}

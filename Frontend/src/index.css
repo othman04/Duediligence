@@ -340,6 +340,60 @@ iframe, svg, video { max-width: 100%; }
   .mobile-header, .mobile-overlay { display: none !important; }
 }
 
+/* ══════════════════════════════════════════════════════════════
+   CTA « Rapport complet » du menu mobile (identité sidebar desktop)
+   ══════════════════════════════════════════════════════════════ */
+.mobile-rapport-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: 100%;
+  margin-bottom: 0.6rem;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #5C240E, #9A421D 60%, #C05A30);
+  color: #FEFCF8;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  box-shadow: 0 6px 20px rgba(154, 66, 29, 0.34);
+}
+.mobile-rapport-btn:active { filter: brightness(0.92); }
+
+/* ══════════════════════════════════════════════════════════════
+   CENTRAGE & RESPIRATION DU CONTENU SUR MOBILE
+   (les pages définissent leurs paddings en inline : on allège
+    uniquement sous 768px, le desktop reste strictement identique)
+   ══════════════════════════════════════════════════════════════ */
+@media (max-width: 767px) {
+  main,
+  main > div {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    max-width: 100% !important;
+  }
+  /* Les sections internes larges ne débordent plus */
+  section, article {
+    max-width: 100%;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   LOGIN : hauteur dynamique mobile (100vh inclut la barre d'adresse
+   du navigateur → la zone semblait ne pas couvrir toute la page)
+   ══════════════════════════════════════════════════════════════ */
+@supports (height: 100dvh) {
+  .login-page,
+  .login-visual,
+  .login-form-panel {
+    min-height: 100dvh;
+  }
+}
+
+
 :root {
   --terra: #9A421D;
   --terraDark: #7A3216;
