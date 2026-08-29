@@ -1062,7 +1062,7 @@ function StepLocation({
       </p>
 
       {/* Grid container: Inputs left (or top), Map right (or main) */}
-      <div style={{ display: 'grid', gap: 24, gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))' }}>
+      <div style={{ display: 'grid', gap: 24, gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 320px), 1fr))' }}>
         {/* Left Column: Form & address info */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
           {/* Ville / Quartier / Coordonnées — synchronisés avec la carte */}
@@ -1281,7 +1281,7 @@ function StepLocation({
 
         {/* Right Column: Interactive Map */}
         <div style={{
-          position: 'relative', height: 420, borderRadius: 20, overflow: 'hidden',
+          position: 'relative', height: 420, width: '100%', minWidth: 0, borderRadius: 20, overflow: 'hidden',
           border: `1.5px solid ${C.sandLight}`, boxShadow: '0 8px 24px rgba(26,20,16,0.08)',
         }}>
           <MapContainer

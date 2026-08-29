@@ -379,7 +379,7 @@ export function VenteContent() {
           {/* ── Tendance & Prix/m² par zone ──────────────────── */}
           <section style={{ marginBottom: 48 }}>
             <SectionHeader eyebrow="Évolution temporelle" title="Tendance des annonces (24 mois)" />
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(420px,1fr))', gap: 16 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(min(100%, 420px),1fr))', gap: 16 }}>
 
               {/* Tendance (Vente Bleue, Location Verte) */}
               <ChartCard title="Annonces mensuelles — Vente vs Location" height={280}>
@@ -520,7 +520,7 @@ export function VenteContent() {
           {hcp.length > 0 && (
             <section style={{ marginBottom: 48 }}>
               <SectionHeader eyebrow="Contexte socio-économique" title="Données HCP par région" />
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(400px,1fr))', gap: 16 }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(min(100%, 400px),1fr))', gap: 16 }}>
                 <ChartCard title="Revenu mensuel moyen (MAD)" height={260}>
                   <ResponsiveContainer>
                     <BarChart data={hcp} layout="vertical" margin={{ top: 4, right: 20, bottom: 4, left: 120 }}>

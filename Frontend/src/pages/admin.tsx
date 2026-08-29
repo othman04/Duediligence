@@ -264,7 +264,7 @@ export default function AdminPage() {
         <div style={{ maxWidth: '100%', padding: '2rem 3rem 4rem' }}>
 
           {/* Main Content Layout */}
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(360px, 1fr))', gap: '2rem', alignItems: 'start' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 360px), 1fr))', gap: '2rem', alignItems: 'start' }}>
             
             {/* Form Box */}
             <div style={{

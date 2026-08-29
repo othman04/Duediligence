@@ -418,7 +418,7 @@ export function LocationContent() {
 {/* ── Distributions de prix ── */}
           <section style={{ marginBottom: 48 }}>
             <SectionHeader eyebrow="Distribution des loyers" title="Structure des prix du marché locatif" />
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(400px,1fr))', gap: 16 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(min(100%, 400px),1fr))', gap: 16 }}>
               <ChartCard title="Loyers mensuels par tranche (MAD)" height={280}>
                 <ResponsiveContainer>
                   <BarChart data={bucketsMensuel} margin={{ top: 4, right: 8, bottom: 4, left: 0 }}>

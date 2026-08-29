@@ -769,7 +769,7 @@ function MethodologyAndCertification({ data }: { data: any }) {
   const osmLive = data.geo?.pois?.overpass_success !== false;
   return (
     <SectionCard id="sec-methodo" number={data.input?.financing?.enabled ? '08' : '07'} title="Informations utiles" icon={ShieldCheck}>
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem', marginBottom: '1.25rem' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))', gap: '1.5rem', marginBottom: '1.25rem' }}>
         <div>
           <div style={{ fontSize: '0.72rem', fontWeight: 700, color: C.terra, textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: 10 }}>D’où viennent les informations ?</div>
           <DataRow label="Prix de vente" value="Estimation à partir de données du marché" />
@@ -945,7 +945,7 @@ function ReportViewer({ data }: { data: any }) {
 
         {/* Section 03 — Scoring visuel */}
         <SectionCard id="sec-scoring" number="03" title="Avis sur l’investissement" icon={BarChart3}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))', gap: '1.5rem' }}>
             <div>
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
                 <span style={{ fontSize: '0.88rem', color: C.inkMuted }}>Avis général</span>
@@ -1008,7 +1008,7 @@ function ReportViewer({ data }: { data: any }) {
             <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: '0.95rem', color: C.sand }}>05</span>
             <span style={{ fontSize: '0.72rem', fontWeight: 700, color: C.inkMuted, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Prix et loyer estimés</span>
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.25rem', marginBottom: '1.25rem' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))', gap: '1.25rem', marginBottom: '1.25rem' }}>
             <SectionCard title="Prix de vente" icon={TrendingUp}>
               <DataRow label="Estimation centrale" value={`${fmt(prixVal)} MAD`} highlight />
               <DataRow label="Estimation basse" value={`${fmt(prixBas)} MAD`} />
@@ -1030,7 +1030,7 @@ function ReportViewer({ data }: { data: any }) {
 
         {/* Section 07 — Distances OSM */}
         <SectionCard id="sec-geo" number={input.financing?.enabled ? '07' : '06'} title="Quartier et services proches" icon={MapIcon}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))', gap: '1.5rem' }}>
             <div>
               <ReportLocationMap lat={input.latitude} lng={input.longitude} />
               <div style={{ fontSize: '0.72rem', fontWeight: 700, color: C.terra, textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: 10 }}>Temps et distances utiles</div>
